@@ -1,0 +1,3 @@
+﻿  Questions To Do.cpp
+C:\C++\Questions To Do\Questions To Do\Questions To Do.cpp(107): error C4700: uninitialized local variable 'size' used
+C:\C++\Questions To Do\Questions To Do\Questions To Do.cpp(107): error C4700: uninitialized local variable 'words' used
